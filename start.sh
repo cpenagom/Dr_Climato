@@ -56,4 +56,4 @@ pip install -r requirements.txt
 
 echo "🎉 Setup complete! Starting the chatbot..."
 echo "🤖 Your chatbot is now running in virtual environment..."
-python orch_10.py
+python Or_id010.py

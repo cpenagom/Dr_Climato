@@ -42,7 +42,7 @@ ollama serve
 ollama pull llama3.2
 
 # Run the chatbot
-python orch_10.py
+python Or_id010.py
 ```
 
 ## File Structure
