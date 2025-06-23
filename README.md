@@ -11,7 +11,7 @@
 
 ### Setup and Run
 
-#### Option 1: Automated Setup (Recommended)
+#### Option 1: Automated Setup 
 ```bash
 # Clone the repository
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
@@ -22,7 +22,7 @@ chmod +x start.sh
 ./start.sh
 ```
 
-#### Option 2: Manual Setup
+#### Option 2: Manual Setup (Recommended)
 ```bash
 # Clone the repository
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
