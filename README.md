@@ -1,5 +1,5 @@
 # Dr_Climato
-# LLM Chatbot Project
+# LLM Chatbot DEMO! Project
 
 ## Quick Start
 
@@ -35,18 +35,25 @@ source chatbot_env/bin/activate  # On Windows: chatbot_env\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Start Ollama (in another terminal)
+# Start Ollama with local API server (in another terminal)
 ollama serve
 
 # Pull the model (in another terminal)
 ollama pull llama3.2
 
-# Run the chatbot
+# Run llama3.2 locally (in another terminal) 
+ollama run llama3.2
+
+# Run the chatbot id10
 python Or_id010.py
+
+# Run the chatbot id15
+python Or_id015.py
 ```
 
 ## File Structure
-- `orch_10.py` - Main chatbot script
+- `Or_id010.py` - Chatbot script
+- `Or_id015.py` - Chatbot script
 - `data/` - Your data files
 - `requirements.txt` - Python dependencies
 - `start.sh` - Automated setup script
